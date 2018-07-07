@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\NdAndroid\\ABN\\News-App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\news_item_menu.xml",
+        "source": "E:\\NdAndroid\\ABN\\News-App\\app\\src\\main\\res\\menu\\news_item_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\semsem\\Desktop\\News-App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\toolbar_icon.xml",
+        "source": "C:\\Users\\semsem\\Desktop\\News-App\\app\\src\\main\\res\\menu\\toolbar_icon.xml"
+    },
+    {
+        "merged": "E:\\NdAndroid\\ABN\\News-App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\toolbar_icon.xml",
+        "source": "E:\\NdAndroid\\ABN\\News-App\\app\\src\\main\\res\\menu\\toolbar_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\semsem\\Desktop\\News-App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\news_item_menu.xml",
+        "source": "C:\\Users\\semsem\\Desktop\\News-App\\app\\src\\main\\res\\menu\\news_item_menu.xml"
+    }
+]
